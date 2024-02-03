@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW Algorithms_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c118e426e6d85e13e4f8a59d769e6d34e8e95c4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f99447546cd33b308aaadb6975e8f44ca79a5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW Algorithms_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW Algorithms_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
